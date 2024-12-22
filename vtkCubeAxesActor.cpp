@@ -1,4 +1,3 @@
-﻿#include "deneme_2.h"
 #include <vtkSmartPointer.h>
 #include <vtkCubeAxesActor.h>
 #include <vtkRenderer.h>
